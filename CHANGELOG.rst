@@ -2,6 +2,11 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.0 (2024-04-23)
+------------------
+* Use an alias target for root library
+* Contributors: Addisu Z. Taddese
+
 0.0.2 (2024-04-09)
 ------------------
 * Add support for the `<pkg>::<pkg>` and `<pkg>::all` targets, fix sourcing of dsv files
