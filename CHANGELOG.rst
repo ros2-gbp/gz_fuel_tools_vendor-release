@@ -2,13 +2,17 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.1 (2024-08-08)
+0.0.5 (2024-08-08)
 ------------------
-* Bump version to 9.1.0 (`#3 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/3>`_)
-* Fix name of the underlying package so it matches name from package.xml (`#2 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/2>`_)
+* Update vendored package version to 9.1.0
 * Contributors: Addisu Z. Taddese
 
-0.1.0 (2024-04-23)
+0.0.4 (2024-07-15)
+------------------
+* Update vendored package version to 9.0.3
+* Contributors: Addisu Z. Taddese
+
+0.0.3 (2024-04-25)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
