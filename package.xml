@@ -10,9 +10,9 @@
     To avoid any confusion with the version of the vendor package, the major
     version here will always be 0.
   -->
-  <version>0.0.4</version>
+  <version>0.1.1</version>
   <description>
-    Vendor package for: gz-fuel_tools9 9.0.3
+    Vendor package for: gz-fuel_tools9 9.1.0
 
     Gazebo Fuel Tools: Classes and tools for interacting with Gazebo Fuel
   </description>
