@@ -4,8 +4,8 @@ project(gz_fuel_tools_vendor)
 
 # Project-specific settings
 set(LIB_VER_MAJOR 9)
-set(LIB_VER_MINOR 0)
-set(LIB_VER_PATCH 3)
+set(LIB_VER_MINOR 1)
+set(LIB_VER_PATCH 0)
 
 # Derived variables
 set(LIB_NAME gz-fuel_tools)
