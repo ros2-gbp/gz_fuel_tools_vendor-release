@@ -2,6 +2,16 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2024-09-30)
+------------------
+* Bump version to 10.0.0 (`#5 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/5>`_)
+* Apply prerelease suffix (`#4 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/4>`_)
+  * Apply prerelease suffix
+  * Drop BUILD_DOCS
+  ---------
+* Upgrade to Ionic
+* Contributors: Addisu Z. Taddese
+
 0.1.1 (2024-08-08)
 ------------------
 * Bump version to 9.1.0 (`#3 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/3>`_)
