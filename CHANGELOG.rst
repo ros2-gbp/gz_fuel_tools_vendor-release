@@ -2,22 +2,28 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.6 (2025-02-10)
+0.2.1 (2025-02-19)
 ------------------
-* Bump version to 9.1.1 (`#6 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/6>`_)
+* Bump version to 10.0.1 (`#7 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/7>`_)
+* Contributors: Carlos Agüero
+
+0.2.0 (2024-09-30)
+------------------
+* Bump version to 10.0.0 (`#5 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/5>`_)
+* Apply prerelease suffix (`#4 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/4>`_)
+  * Apply prerelease suffix
+  * Drop BUILD_DOCS
+  ---------
+* Upgrade to Ionic
 * Contributors: Addisu Z. Taddese
 
-0.0.5 (2024-08-08)
+0.1.1 (2024-08-08)
 ------------------
-* Update vendored package version to 9.1.0
+* Bump version to 9.1.0 (`#3 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/3>`_)
+* Fix name of the underlying package so it matches name from package.xml (`#2 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/2>`_)
 * Contributors: Addisu Z. Taddese
 
-0.0.4 (2024-07-15)
-------------------
-* Update vendored package version to 9.0.3
-* Contributors: Addisu Z. Taddese
-
-0.0.3 (2024-04-25)
+0.1.0 (2024-04-23)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
