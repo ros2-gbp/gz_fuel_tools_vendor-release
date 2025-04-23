@@ -1,1 +1,1 @@
-{"base": "e26fe98", "parent": "debian/rolling/gz_fuel_tools_vendor", "previous": "52fcdf5", "trim": "", "trimbase": ""}
+{"base": "3ea8bde4670b", "parent": "debian/kilted/gz_fuel_tools_vendor", "previous": "c4792294fe99", "trim": "", "trimbase": ""}
