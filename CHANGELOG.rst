@@ -2,11 +2,10 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.2 (2025-06-27)
+0.2.3 (2025-09-04)
 ------------------
-* Merge pull request (`#9 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/9>`_)
-* Bump version to 10.1.0
-* Contributors: Ian Chen, Jose Luis Rivero
+* Bump version to 10.1.0 (`#8 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/8>`_)
+* Contributors: Ian Chen
 
 0.2.1 (2025-02-19)
 ------------------
