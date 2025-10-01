@@ -2,6 +2,14 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.1 (2025-10-01)
+------------------
+* Merge pull request `#12 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/12>`_ from gazebo-release/releasepy/rolling/11.0.0
+  Bump version to 11.0.0
+* Bump version to 11.0.0
+* Add dsv for PYTHONPATH for Jetty packages (`#11 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/11>`_)
+* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
+
 0.3.0 (2025-09-08)
 ------------------
 * Jetty support: 11.0.0-pre1 (`#10 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/10>`_)
