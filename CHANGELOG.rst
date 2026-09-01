@@ -2,32 +2,15 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.1 (2026-08-25)
+0.2.4 (2026-08-31)
 ------------------
-* Upgrade to Rotary prerelease (`#13 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/13>`_)
+* Enable Python bindings (`#14 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/14>`_)
 * Contributors: Addisu Z. Taddese
 
-0.4.0 (2026-05-14)
+0.2.3 (2025-09-04)
 ------------------
-
-0.3.1 (2025-10-01)
-------------------
-* Merge pull request `#12 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/12>`_ from gazebo-release/releasepy/rolling/11.0.0
-  Bump version to 11.0.0
-* Bump version to 11.0.0
-* Add dsv for PYTHONPATH for Jetty packages (`#11 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/11>`_)
-* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
-
-0.3.0 (2025-09-08)
-------------------
-* Jetty support: 11.0.0-pre1 (`#10 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/10>`_)
-* Contributors: Steve Peters
-
-0.2.2 (2025-06-27)
-------------------
-* Merge pull request (`#9 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/9>`_)
-* Bump version to 10.1.0
-* Contributors: Ian Chen, Jose Luis Rivero
+* Bump version to 10.1.0 (`#8 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/8>`_)
+* Contributors: Ian Chen
 
 0.2.1 (2025-02-19)
 ------------------
