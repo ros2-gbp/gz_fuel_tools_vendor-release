@@ -2,6 +2,11 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.6 (2026-11-24)
+------------------
+* Bump version to 10.1.1 (`#18 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/18>`_)
+* Contributors: Nate Koenig
+
 0.2.5 (2026-09-04)
 ------------------
 * Revert "Enable Python bindings (`#14 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/14>`_)" (`#16 <https://github.com/gazebo-release/gz_fuel_tools_vendor/issues/16>`_)
